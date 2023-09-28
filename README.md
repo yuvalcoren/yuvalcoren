@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello GitHub! 👋
 
-<!--
-**yuvalcoren/yuvalcoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yuval 👨‍💻
 
-Here are some ideas to get you started:
+I am a DevOps enthusiast 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working with:
+
+- Kubernetes (K8S) 🚢
+- Linux 🐧
+- AWS Certified:
+  - Developer Associate 📜
+  - Solutions Architect 📜
+- Docker 🐳
+- Jenkins 🛠️
+- Terraform 🌍
+- Python 🐍
+- CI/CD Concepts 🔄
+
+[![Check out my repos!](https://img.shields.io/badge/Check%20out%20my%20repos!-blueviolet?style=for-the-badge&logo=github)](https://github.com/yuvalcoren)
